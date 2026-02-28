@@ -1,4 +1,9 @@
-\# Enterprise EDR Deployment \& Detection Validation – CrowdStrike Falcon
+# Enterprise EDR Deployment & Detection Validation – CrowdStrike Falcon
+
+## Architecture Diagram
+
+![Lab Architecture](lab-diagram.png)
+# Enterprise EDR Deployment \& Detection Validation – CrowdStrike Falcon
 
 
 
